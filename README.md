@@ -5,4 +5,4 @@ After making a calculation, simply press the enter key (or equals button) a seco
 
 An example form is included that shows how the calculator form might be called easily from within another form.  Opening the form can, of course, be tied to other events like a keypress, double-click, etc.
 
-If you decide to incorporate this into your database project, all I ask for is credit wherever substantial portions of this package is used.
+If you decide to incorporate this into your database project, all I ask for is credit wherever a substantial portion of this dialog is used.
